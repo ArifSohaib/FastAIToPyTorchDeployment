@@ -20,11 +20,11 @@ After changing the model, also create a json file with the names of all categori
 
 ## requirements
 
-The app and API requires PyTorch, TorchVision and Flask only, it has been tested with the following version <br/>
-<ul>
-    <li> Flask==1.0.3</li>
-    <li> PyTorch==1.3.0</li>
-    <li> Torchvision==0.4.0</li>
-</ul>
+The app and API requires PyTorch, TorchVision and Flask only, it has been tested with the following version  
+
+- Flask==1.0.3
+- PyTorch==1.3.0
+- Torchvision==0.4.0
+
 
 The code here is based on the PyTorch documentation<a href="https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html"> here</a> as well as a linked repository <a href="https://github.com/avinassh/pytorch-flask-api-heroku">here</a>.
